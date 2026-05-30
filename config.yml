@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Carlos Bueno
           subtitle: "I am a PhD Researcher in Education Policy at the Autonomous University of Barcelona (UAB), funded by La Caixa INPhINIT Scholarship. My research focuses on geospatial approaches for educational planning, particularly related to school supply and school choice processes in order to enhance access to education and address school segregation issues in education systems. Previously I have worked across different UN organizations and NGOs on a variety of education topics, including curriculum reform and school dropout prevention." 
-          imageUrl: "DSC02217_Caixa.png"
+          imageUrl: "DSC02217_Caixa.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
