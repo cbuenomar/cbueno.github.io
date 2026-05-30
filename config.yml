@@ -62,22 +62,14 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
+            - name: Outreach
               url: books/
-            - name: Courses
+            - name: CV
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV_Carlos_Bueno.pdf
         - name: Email
           url: mailto:carlos.bueno.martinez@gmail.com
         - name: Google Scholar
